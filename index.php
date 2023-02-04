@@ -26,7 +26,7 @@
         <input type="text" class="form-control" name="username" id="username" placeholder="Enter your UserName">
       </div>
      
-      <button type="submit" class="btn btn-primary">Submit</button>
+      <button type="submit" class="btn btn-primary mt-2">Submit</button>
   </form>
  
   </div>
